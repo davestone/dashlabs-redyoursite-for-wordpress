@@ -19,7 +19,7 @@ function include_code()
 	if(get_option("see_disable_plugin")==false && get_option("see_disable_post_videos")==false)
 	{
 ?>
-	<script type="text/javascript" src="http://redyoursite.com/red.js"></script>
+	<script type="text/javascript" src="http://code.redyoursite.com/red.js"></script>
 <?php
 	}
 }
